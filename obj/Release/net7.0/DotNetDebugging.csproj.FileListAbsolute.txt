@@ -1,0 +1,15 @@
+/Users/daniellegan/Documents/Projects/DotNetDebugging/bin/Release/net7.0/DotNetDebugging
+/Users/daniellegan/Documents/Projects/DotNetDebugging/bin/Release/net7.0/DotNetDebugging.deps.json
+/Users/daniellegan/Documents/Projects/DotNetDebugging/bin/Release/net7.0/DotNetDebugging.runtimeconfig.json
+/Users/daniellegan/Documents/Projects/DotNetDebugging/bin/Release/net7.0/DotNetDebugging.dll
+/Users/daniellegan/Documents/Projects/DotNetDebugging/bin/Release/net7.0/DotNetDebugging.pdb
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.csproj.AssemblyReference.cache
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.AssemblyInfo.cs
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.dll
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/refint/DotNetDebugging.dll
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.pdb
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.genruntimeconfig.cache
+/Users/daniellegan/Documents/Projects/DotNetDebugging/obj/Release/net7.0/ref/DotNetDebugging.dll
